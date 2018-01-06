@@ -1,1 +1,1 @@
-# CMPT-365-A2
+# CMPT-365-Blind Helper
